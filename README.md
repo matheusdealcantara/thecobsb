@@ -5,6 +5,8 @@
 - 💬 Ask me about backend development
 - 📫 How to reach me: dealcantaramatheus1@gmail.com
 
+
+### 💻 Languages and Tools
 | Rank | Technologies |
 |-----:|---------------|
 |     1| Python              |
