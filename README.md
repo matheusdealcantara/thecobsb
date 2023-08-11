@@ -1,8 +1,12 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a todo list application
-- 🌱 I’m currently learning web development 
-- 👯 I’m looking to collaborate on all sort of projects to acquire new knowledge 
+  
+- 🌱 I’m currently learning web development
+  
+- 👯 I’m looking to collaborate on all sort of projects to acquire new knowledge
+  
 - 💬 Ask me about backend development
+  
 - 📫 How to reach me: dealcantaramatheus1@gmail.com
 
 
